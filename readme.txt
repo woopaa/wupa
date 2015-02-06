@@ -4,3 +4,4 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 It is branch of one.
 no--ff of dev
+fast_forword
